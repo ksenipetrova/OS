@@ -1,0 +1,4 @@
+./writeArgs.out,wait,first
+./writeArgs.out,wait,second
+./writeArgs.out,respawn,tihrd
+./writeArgs.out,wait,fourth
